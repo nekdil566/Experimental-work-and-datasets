@@ -22,7 +22,7 @@ This repository contains the experimental work and datasets for analyzing sentim
 - **Understanding Emotions in End.pdf**: Explores theoretical aspects of understanding emotions in user reviews.
 
 ### Datasets
-- **R2_ChatGPt_dataset.csv**: Dataset related to interactions with ChatGPT, possibly annotated for sentiment or emotion.
+- **R2_ChatGPt_dataset.csv**: Dataset related to interactions with ChatGPT,annotated for sentiment or emotion.
 - **chatgptannoated_datset_final.csv**: Finalized version of the annotated ChatGPT dataset.
 - **end-user reviews dataset.csv**: Contains end-user reviews, which may include sentiment or emotion annotations.
 - **vadar_resutls.csv**: Results from VADER sentiment analysis on the provided datasets.
