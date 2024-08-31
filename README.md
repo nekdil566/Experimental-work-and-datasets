@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains the experimental work and datasets for analyzing sentiment and emotion in user reviews. The project explores various deep learning models, such as GRU, LSTM, and BiLSTM, and implements sentiment analysis using VADER. Additionally, the repository includes code snippets in PDF format, which users can copy and use directly from the documents.
+This repository contains the experimental work and datasets for analyzing sentiment and emotion in user reviews. The project explores various deep learning models, such as GRU, BiGRU,LSTM, and BiLSTM, CNN, RNN and BiRNN implements sentiment analysis. Additionally, the repository includes code snippets in PDF format, which users can copy and use directly from the documents.
 
 ## Directory Structure
 
@@ -55,6 +55,4 @@ To run the code provided in this repository, you will need the following:
 
 For questions or feedback regarding this project, please contact [naikdil2003@gmail.com].
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
