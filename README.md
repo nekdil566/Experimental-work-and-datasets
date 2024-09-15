@@ -11,6 +11,7 @@ This repository contains the experimental work and datasets for analyzing sentim
 - **BIGRU_MODEL.ipynb**: Implements a BiGRU model to capture contextual sentiment in user reviews.
 - **BILSTM_OVER_UNDER_SAMPLING.ipynb**: This notebook addresses class imbalance using over-sampling and under-sampling techniques, applied to a BiLSTM model.
 - **GRU_model.ipynb**: Implements a GRU model for sequence processing tasks such as sentiment analysis.
+- - **RR2_CNN_model.ipynb**: Implements a CNN model for sequence processing tasks such as sentiment analysis.
 - **Grid search for(chatgptdataset).ipynb**: Performs hyperparameter optimization using grid search on models trained with the ChatGPT dataset.
 - **LSTM_OVER_UNDER_LSTM.ipynb**: Focuses on LSTM models with sampling techniques to manage class distribution.
 - **lstm_bilstm.ipynb**: Compares LSTM and BiLSTM models in terms of performance on sentiment analysis tasks.
